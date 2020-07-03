@@ -1,0 +1,13 @@
+host = "127.0.0.1"
+port = 8888
+
+[database]
+host = "127.0.0.1"
+port = 3306
+username = "root"
+password = ""
+database = "chaos_commander"
+
+[slack]
+token = "xoxp-114514"
+channel = ""
